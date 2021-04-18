@@ -1,0 +1,1 @@
+console.log("A temperatura convertida em Fahrenheit é: " + (30 * 1.8 + 32));
